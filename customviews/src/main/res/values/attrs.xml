@@ -1,0 +1,6 @@
+<resources>
+    <declare-styleable name="ToolbarCustom">
+        <!-- Title of the bar, generally the activity title -->
+        <attr name="custom_title" format="string" />
+    </declare-styleable>
+</resources>
